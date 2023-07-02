@@ -3,7 +3,7 @@ import time
 def thread_new():
 
 	while True:
-		password="nlabilykpgveufge"
+		password="qqabgyhwhmctcbdi"
 
 		import smtplib
 		from email.mime.text import MIMEText
